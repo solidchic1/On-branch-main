@@ -22,6 +22,24 @@ The report is complete.
 
 The report will tell you things you already knew.
 
+
+```
+$ python STATUS.py
+
+============================================================
+  on-branch-main | STATUS.py
+  reading the state of things
+============================================================
+
+[ WORKING TREE: CLEAN ]
+
+On branch main,
+The working tree,
+clean.
+
+------------------------------------------------------------
+```
+
 ---
 
 ## THREE STATES
